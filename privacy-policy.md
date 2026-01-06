@@ -116,7 +116,7 @@ Ngừng sử dụng ứng dụng bất cứ lúc nào
 
 Thu hồi quyền truy cập GPS, thiết bị
 
-📩 Yêu cầu liên hệ: support@fokasoft.vn
+📩 Yêu cầu liên hệ: support@fokasoft.com
 
 7. Thời gian lưu trữ dữ liệu
 
