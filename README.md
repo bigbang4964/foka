@@ -216,8 +216,8 @@ FokaPOS là sản phẩm thương mại. Mọi quyền được bảo lưu.
 
 📞 Liên hệ
 
-Website: fokasoft.vn
+Website: fokasoft.com
 
-Email: support@fokasoft.vn
+Email: support@fokasoft.com
 
 Hotline: 0346987195
