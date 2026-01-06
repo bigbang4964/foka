@@ -174,3 +174,50 @@ Dữ liệu nhạy cảm → thiết bị
 Dữ liệu nghiệp vụ → cloud
 
 Không dùng crypto native → tương thích Expo
+
+Test & môi trường
+
+Android POS
+
+Android phone
+
+iOS (qua Expo / TestFlight)
+
+Firebase Emulator (dev)
+
+📦 Build & phát hành
+
+Android:
+
+APK / AAB
+
+Google Play Store
+
+iOS:
+
+EAS Build
+
+App Store
+
+🏷️ Đối tượng phù hợp
+
+Quán ăn – quán cafe – trà sữa
+
+Nhà hàng nhỏ & vừa
+
+Cá nhân kinh doanh
+
+Doanh nghiệp F&B cần xuất HĐĐT
+
+📄 Bản quyền
+
+© 2025 FokaSoft
+FokaPOS là sản phẩm thương mại. Mọi quyền được bảo lưu.
+
+📞 Liên hệ
+
+Website: fokasoft.vn
+
+Email: support@fokasoft.vn
+
+Hotline: 0346987195
